@@ -1,3 +1,3 @@
 # php_lessons
 
-Aprendendo a codar em PHP
+Exposição de trilha de aprendizado pessoal na linguagem PHP
